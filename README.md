@@ -1,12 +1,12 @@
 # Programming Practice
 
-A collection of programming programs practiced through college laboratory work and independent practice.
+A collection of programming practice and laboratory programs covering **Python** and **Data Structures**.
 
 ## 📚 Contents
 
 ### 🐍 Python
 
-50 programs organized into five units:
+50 Python programs organized unit-wise:
 
 | Unit | Programs |
 |------|----------|
@@ -17,14 +17,29 @@ A collection of programming programs practiced through college laboratory work a
 | Unit 5 | 3 |
 | **Total** | **50** |
 
-Topics include Python basics, functions, strings, data structures, OOP, file handling, exception handling, and GUI programming.
+Topics include:
+
+- Python basics
+- Variables and data types
+- Operators and expressions
+- Strings
+- Functions
+- Conditional statements
+- Loops
+- Lists, tuples, dictionaries and sets
+- Modules
+- Object-Oriented Programming
+- File handling
+- Exception handling
+- GUI programming
 
 ### 🌳 Data Structures
 
-Programs covering:
+Programs covering fundamental Data Structures and Algorithms, including:
 
 - Arrays
-- Sorting algorithms
+- Quick Sort
+- Radix Sort
 - Stacks
 - Queues
 - Postfix expression evaluation
@@ -44,3 +59,7 @@ Programming-Practice/
 │   └── unit-5/
 │
 └── Data-Structures/
+    ├── Array Programs
+    ├── Sorting Algorithms
+    ├── Stack & Queue Programs
+    └── Linked List Programs
